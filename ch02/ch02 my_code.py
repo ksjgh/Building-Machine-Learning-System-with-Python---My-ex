@@ -176,3 +176,4 @@ from sklearn.cross_validation import KFold
 #    curmean = np.mean(prediction == labels[testing])
 #    means.append(curmean)
 # print('Mean accuracy: {:.1%}'.format(np.mean(means)))
+# end ch02
